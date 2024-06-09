@@ -1,0 +1,1 @@
+query_id=AAH8uLNKAAAAAPy4s0qzW7QD&user=%7B%22id%22%3A1253292284%2C%22first_name%22%3A%22Rizal%22%2C%22last_name%22%3A%22Akbar%22%2C%22username%22%3A%22Rizalakbar%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717934729&hash=720e11d2b15f181cb2c1007d272e845d85eb3654a86fdce04c7859eb1f00d62b
